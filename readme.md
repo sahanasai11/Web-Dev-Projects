@@ -7,3 +7,10 @@
   - Created Node.js/Express web service available for use with AJAX to choose which meal to meal-prep for the following week.
 - Full-Stack-Online-Ice-Cream-Store
   - Full stack Ecommerce ice cream store. Created my own API to retrieve and customize ice cream flavors as well as functionality to add items to the cart and contact the administrator.
+
+**Skills**
+- HTML
+- CSS
+- JavaScript
+- NodeJS/Express
+- AJAX
