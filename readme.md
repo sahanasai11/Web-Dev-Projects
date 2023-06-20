@@ -1,3 +1,4 @@
+# Web Development Projects
 **This folder holds creative projects made in CS 132 at Caltech.**
 - Chess-Opening-and-Defenses
   - Simple website made using HTML, CSS, and JavaScript to practice DOM manipulation
