@@ -14,7 +14,7 @@
  
 - Full-Stack-Online-Ice-Cream-Store
   - Full stack Ecommerce ice cream store. Created my own API to retrieve and customize ice cream flavors as well as functionality to add items to the cart and contact the administrator.
-![ice cream store demo gif](Full-Stack-Online-Ice_Cream-Store/public/ice_cream_gif.gif)
+  - ![ice cream store demo gif](Full-Stack-Online-Ice-Cream-Store/public/ice_cream_gif.gif)
 
 **Skills**
 - HTML
