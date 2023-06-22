@@ -3,7 +3,7 @@
 
 **Last Updated:** 06/09/22
 
-![Demo of ice cream website](ice_cream_gif.gif)
+![Demo of ice cream website](public/ice_cream_gif.gif)
 
 The ice cream API provides functionality to retrieve and customize flavors for an ice cream store. Clients can access all flavors offered by the store and information about each flavor such as its name, image,
 price, and description. In addition, clients can customize their order for their flavor of choice. There is also functionality to contact the company. All error responses are returned as plain text. All 500 errors are a server-side issue and have their own generic error message. All 400 errors are an invalid request by a client.
