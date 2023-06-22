@@ -2,11 +2,11 @@
 **This folder holds creative projects made in CS 132 at Caltech.**
 - Chess-Opening-and-Defenses
   - Simple website made using HTML, CSS, and JavaScript to practice DOM manipulation
-  ![Chess website demo gif](Chess-Openings-Defenses/public/chess_gif.gif)
+  ![Chess website demo gif](Chess-Openings-Defenses/chess_gif.gif)
   
 - Hangman
   - Implementation of the Hangman game using APIs to access a random word and its definition
-  ![hangman demo gif](Hangman/public/hangman_gif.gif)
+  ![hangman demo gif](Hangman/hangman_gif.gif)
  
 - Mealprep-Picker
   - Created Node.js/Express web service available for use with AJAX to choose which meal to meal-prep for the following week.
